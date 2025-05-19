@@ -28,7 +28,7 @@ MongoDB
 Git
 Installation
 Clone the repository
-git clone https://github.com/Kalpak26/fsd-mini-proj-main
+git clone https://github.com/yogeshrauniyar/fsd-mini-proj-main
 cd fsd-mini-proj-main
 Set up the backend
 # Navigate to backend directory
